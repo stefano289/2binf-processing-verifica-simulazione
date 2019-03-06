@@ -1,1 +1,7 @@
-rect(0,0,width-10,height-10);
+void setup() {
+  fullScreen();
+}
+
+void draw() {
+  background(150,225,255);
+}
