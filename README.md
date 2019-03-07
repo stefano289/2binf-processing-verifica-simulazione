@@ -23,6 +23,32 @@ Quando avete finito e **comunque 5 minuti prima** dello scadere del tempo (vi ve
 
 
 # Calcolo del punteggio
+- [ ] creare una classe `Personaggio`
+- [ ] dichiarare una variabile di tipo `Personaggio`
+- [ ] assegnare alla variabile creata il modello `ron.obj`
+- [ ] colorare di rosso il personaggio creato
+- [ ] creare un metodo nella classe Personaggio per disegnarlo
+- [ ] disegnare il personaggio
+- [ ] far muovere il personaggio da destra verso sinistra
+- [ ] analogamente a quanto fatto finora, creare una classe Edificio con un metodo per disegnarlo
+- [ ] creare una variabile per il castello e disegnare il castello
+- [ ] far fermare il personaggio quando arriva al castello
+
+- [ ] aggiungere due variabili di classe `x` e `y`, di tipo `float`, alla classe `Personaggio`
+- [ ] aggiungere un metodo `avanza()` alla classe `Personaggio`, senza argomenti, che fa avanzare il personaggio verso il castello
+- [ ] creare anche un metodo `confundo()`, senza argomenti, che viene richiamato quando l'utente preme il mouse
+- [ ] aggiungere al metodo `confundo()` qualcosa che faccia confondere il personaggio, ad esempio i metodi di PShape `rotateX()` e `rotateY()`
+- [ ] far fermare il movimento in avanti del personaggio quando è confuso
+- [ ] per dare un'idea dello scorrere del tempo, far scurire il cielo verso il nero o un colore notturno
+- [ ] ruotare il personaggio in modo che guardi nella direzione del movimento
+
+- [ ] corretta indentazione del codice
+- [ ] codice che compila
+- [ ] chiarezza del codice (commenti, identificativi, etc.)
+
+TOT: 20
+Sufficienza: 11
+Per avere il massimo del voto bisogna avere il massimo del punteggio.
 
 
 # Note generali
